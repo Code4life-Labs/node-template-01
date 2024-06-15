@@ -1,0 +1,11 @@
+node_modules
+
+.env
+.env.dev
+.env.development
+.env.develop
+.env.prod
+.env.production
+.env.product
+
+package-lock.json
